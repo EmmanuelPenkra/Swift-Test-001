@@ -40,9 +40,6 @@ You will be assessed based on:
 - **Design Guidelines:**  
   Review the design specifications here: [Figma Design Guidelines](https://www.figma.com/design/sTaho4kTFib0OmS5Q1H3pd/Full-Stack-Test)
 
-- **AI Models & Documentation:**  
-  Use any LLM provider of your choice. Research API documentation and sample projects to integrate AI features effectively.
-
 - **Help:**  
   You are encouraged to leverage AI models, Stack Overflow, or other resources. Your resourcefulness matters, and the end result is most important!
 
